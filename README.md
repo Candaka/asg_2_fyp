@@ -1,4 +1,4 @@
-# COMP6047001 - Algorithm and Programming Assignment
+# Sesi 3 - Git Started: Version Control For New Coders
 
 This repository contains my submission for **ASG 2 FYP**.
 
